@@ -7,33 +7,18 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WebApplication1.Account
-{
-
-
-    public partial class RegisterExternalLogin
-    {
-
-
-
+namespace WebApplication1 {
+    
+    
+    public partial class Millie {
+        
         /// <summary>
-        /// userNameForm control.
+        /// form1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.PlaceHolder userNameForm;
-
-        /// <summary>
-        /// userName control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox userName;
-
-
+        protected global::System.Web.UI.HtmlControls.HtmlForm form1;
     }
 }
